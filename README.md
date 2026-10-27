@@ -384,4 +384,9 @@ High resolution images from Apple Wallet.
 
 ## Contribute
 
-**Apple Wallet:** Run [this shortcut](https://www.icloud.com/shortcuts/855ce7162b45400da58367dff5918364) on your Mac.
+If you are going to do this process on your iPhone, you need another Apple device that can receive files via AirDrop. Step 1~2 is only required on iOS, iPadOS. (If you are using macOS you can skip.)
+
+1. Open Settings app. Enter `File://a/var/mobile/Library/Passes/Cards/` in search bar.
+2. Highlight the full text in search bar. Press `>` → `Share` → Select your AirDropable device (Which appears above `AirDrop`).
+3. Go to [Releases](https://github.com/Dr-Sauce/AppleWallet/releases/latest) (on the device you received the AirDrop). Add shortcut to your device by clicking the iCloud URL.
+4. Run `Apple Wallet` shortcut.
