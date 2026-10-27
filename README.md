@@ -390,3 +390,6 @@ If you are going to do this process on your iPhone, you need another Apple devic
 2. Highlight the full text in search bar. Press `>` → `Share` → Select your AirDropable device (Which appears above `AirDrop`).
 3. Go to [Releases](https://github.com/Dr-Sauce/AppleWallet/releases/latest) (on the device you received the AirDrop). Add shortcut to your device by clicking the iCloud URL.
 4. Run `Apple Wallet` shortcut.
+
+## Source
+[@khanhduytran0](https://github.com/khanhduytran0) ([CVE-2024-54488](https://www.reddit.com/r/jailbreak/comments/1ppu8sr/comment/nuv3zc2/))
